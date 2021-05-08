@@ -28,7 +28,12 @@ The path of the database. (such as: /Users/xxx/Desktop/Dataset)
 Folder named as “SegmentationResults” is created in the database folder and segmented images are saved.
 
 ## Example I/O
-![14](https://user-images.githubusercontent.com/51919213/117545047-d1cf3780-b02c-11eb-983a-8d18fc576f47.png)
-![masked3](https://user-images.githubusercontent.com/51919213/117545061-e3184400-b02c-11eb-8a1e-4af93fe338cd.png)
+![4](https://user-images.githubusercontent.com/51919213/117545110-1ce94a80-b02d-11eb-9062-de1227a6d4c0.png)
+Input Image
+![clustered15](https://user-images.githubusercontent.com/51919213/117545128-2a9ed000-b02d-11eb-819e-e5fa6a6a2c34.png)
+Clstered Version
+![masked15](https://user-images.githubusercontent.com/51919213/117545140-338fa180-b02d-11eb-97f4-ad9af0cf7541.png)
+Masked Version
+
 
 
