@@ -29,9 +29,9 @@ Folder named as “SegmentationResults” is created in the database folder and 
 
 ## Example I/O
 ![4](https://user-images.githubusercontent.com/51919213/117545110-1ce94a80-b02d-11eb-9062-de1227a6d4c0.png)
-Input Image </ br>
+Input Image <br />
 ![clustered15](https://user-images.githubusercontent.com/51919213/117545128-2a9ed000-b02d-11eb-819e-e5fa6a6a2c34.png)
-Clustered Version </ br>
+Clustered Version <br />
 ![masked15](https://user-images.githubusercontent.com/51919213/117545140-338fa180-b02d-11eb-97f4-ad9af0cf7541.png)
 Masked Version 
 
